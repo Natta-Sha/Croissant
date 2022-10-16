@@ -1,3 +1,19 @@
 body {
   background-color: palevioletred;
+  margin: 50px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.photo {
+  max-width: 80%;
+  display: block;
+  margin: 30px auto;
+}
+
+footer {
+  margin: 20px;
+  text-align: center;
 }
